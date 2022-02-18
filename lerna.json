@@ -2,15 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "command": {
-    "publish": {
-      "ignoreChanges": [
-        "ignored-file",
-        "*.md"
-      ],
-      "message": "chore(release): publish",
-      "registry": "https://registry.npmjs.org/:_authToken=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"
-    }
-  },
   "version": "0.0.11"
 }

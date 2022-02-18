@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "publish": "lerna publish --canary --yes --no-verify-access"
+    "publish": "lerna publish --canary --yes"
   },
   "devDependencies": {
     "lerna": "^4.0.0"

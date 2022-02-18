@@ -1,7 +1,7 @@
 {
   "name": "demo1",
-  "version": "0.0.13",
+  "version": "0.0.14-alpha.0+3130092",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "0432aa3e296b5bdd7aef8d321867c743d0888986"
+  "gitHead": "313009276672e2c085ab4911a602f27d3eb8475a"
 }

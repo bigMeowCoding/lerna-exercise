@@ -1,6 +1,6 @@
 {
   "name": "zyj-lerna-demo2",
-  "version": "0.2.0-alpha.0+ba4e530",
+  "version": "0.2.0-alpha.1+91a3a51",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -8,5 +8,5 @@
     "lodash": "^4.17.21",
     "typescript": "^4.5.5"
   },
-  "gitHead": "ba4e530e6766e61b86041a1f9c82f0d34e8c81a0"
+  "gitHead": "91a3a517ba9b3579dfa35da2a3c7ee783956aafc"
 }

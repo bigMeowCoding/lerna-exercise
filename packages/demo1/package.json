@@ -1,11 +1,11 @@
 {
   "name": "zyj-lerna-demo1",
-  "version": "0.0.19",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "7551939092c27883cb6cfbcee157a637b03e9680",
   "dependencies": {
-    "zyj-lerna-demo2": "^0.0.19"
+    "zyj-lerna-demo2": "^0.1.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",

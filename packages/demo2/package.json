@@ -5,7 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "typescript": "^4.5.5"
   },
   "gitHead": "341f039f44157216219f1c2113cc7ebca1b71b57"
 }

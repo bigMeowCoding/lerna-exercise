@@ -35,3 +35,4 @@ middlewares
 
 src/routes/index.js
 _compile_profile
+/lerna-debug.log

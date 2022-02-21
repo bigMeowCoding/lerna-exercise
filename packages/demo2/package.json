@@ -6,5 +6,6 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "15742776aa40a22fcb834663a4c32bf098c29da1"
 }

@@ -3,7 +3,7 @@
   "version": "0.2.5",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "8f642e5cf64f090c27941e76c6ee9e6f167cb062",
+  "gitHead": "df9a28d67cf661a673eb57f06872e9e07d760ff3",
   "dependencies": {
     "zyj-lerna-demo2": "^0.2.0"
   },
